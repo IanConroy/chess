@@ -19,3 +19,9 @@ body {
     margin:1px 0;
     border:1px solid #999;
 }
+.nav li a {
+    display:block;
+    line-height:3em;
+    width:100%;
+    text-decoration:none;
+}
