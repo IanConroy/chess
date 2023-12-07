@@ -2,13 +2,11 @@ body {
     background-color:#121313;
     color:#8d8d8d;
     font-family:Impact, "Courier New";
-    margin:0;
-    padding:0;
+    margin:auto;
     font-size:100%;
 }
 .left {
-    width:20%;
-    float:left;
+    
 }
 .nav {
     position:fixed;
@@ -23,7 +21,9 @@ body {
     list-style:none;
     background-color:#111;
     padding-top:60px;
+    margin:auto;
 }
+
 .nav li {
     margin:1px 0;
     border:1px solid #999;
@@ -36,4 +36,8 @@ body {
     padding:8px 8px 8px 32px;
     display:block;
     transition:0.3s;
+}
+
+.nav li a:hover {
+    color:aquamarine;
 }
