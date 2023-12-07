@@ -6,7 +6,8 @@ body {
     font-size:100%;
 }
 .left {
-    
+    width:20%;
+    float:left;
 }
 .nav {
     position:fixed;
