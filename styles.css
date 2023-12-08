@@ -4,6 +4,7 @@ body {
     font-family:Impact, "Courier New";
     margin:auto;
     font-size:100%;
+    padding-left:200px;
 }
 .left {
     width:20%;
@@ -12,7 +13,7 @@ body {
 .nav {
     position:fixed;
     height:100%;
-    z-index:1;
+    z-index:2;
     top:0;
     left:0;
     margin:0;
