@@ -2,10 +2,10 @@ body {
     background-color:#0d2133;
     color:#8d8d8d;
     font-family:Impact, "Courier New";
-    
     font-size:100%;
     padding-left:200px;
 }
+
 h1:first-of-type {
     display:flex;
     justify-content: center;
@@ -30,6 +30,7 @@ max-width:600px;
     width:20%;
     float:left;
 }
+
 .nav {
     position:fixed;
     height:100%;
@@ -45,13 +46,13 @@ max-width:600px;
     padding-top:60px;
     margin:auto;
     font-weight:bold;
-    
 }
 
 .nav li {
     margin:1px 0;
     border:1px solid #999;
 }
+
 .nav li a {
     display:block;
     line-height:3em;
