@@ -11,6 +11,25 @@ h1:first-of-type {
     justify-content: center;
 }
 
+.intro {
+    
+}
+
+.intro img:first-of-type {
+    max-width:450px;
+    max-height:450px;
+    display:flex;
+    justify-content:center;
+}
+
+.intro p {
+display:flex;
+justify-content:center;
+text-align:center;
+margin:50px;
+max-width:600px;
+}
+
 .left {
     width:20%;
     float:left;
