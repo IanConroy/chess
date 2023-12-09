@@ -6,6 +6,11 @@ body {
     font-size:100%;
     padding-left:200px;
 }
+h1:first-of-type {
+    display:flex;
+    justify-content: center;
+}
+
 .left {
     width:20%;
     float:left;
