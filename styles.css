@@ -11,10 +11,6 @@ h1:first-of-type {
     justify-content: center;
 }
 
-.intro {
-    
-}
-
 .intro img:first-of-type {
     max-width:450px;
     max-height:450px;
